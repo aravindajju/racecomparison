@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"200":"TMM","204":90,"206":10},"geometry":{"type":"Point","coordinates":[72.99316406249999,19.02057711096681]}},{"type":"Feature","properties":{"200":"SPBM","204":85,"206":15},"geometry":{"type":"Point","coordinates":[77.607421875,12.983147716796578]}},{"type":"Feature","properties":{"200":"AHM","204":95,"206":5},"geometry":{"type":"Point","coordinates":[78.3984375,17.308687886770034]}},{"type":"Feature","properties":{"200":"SPCM","204":97,"206":3},"geometry":{"type":"Point","coordinates":[80.244140625,13.111580118251648]}},{"type":"Feature","properties":{"200":"NDM","204":89,"206":11},"geometry":{"type":"Point","coordinates":[77.255859375,28.536274512989916]}}],
+
+"properties": {"fields": {"5065": {"lookup": {"1": "Men", "2": "Women"}, "name": "Accident type"} }}, "attribution": "GeeksOnFeet", "description": "Marathon Participation by Gender"
+}
